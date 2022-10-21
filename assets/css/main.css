@@ -3263,7 +3263,7 @@ table.alt tbody tr td {
 	display: block;
 	border-radius: 100%;
 	margin: 0 auto;
-	max-width: 25%;
+	max-width: 35%;
 }
 
 @media screen and (max-width: 1280px) {
