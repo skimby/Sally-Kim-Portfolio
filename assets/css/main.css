@@ -30,8 +30,13 @@
 }
 
 .half-input {
-	width: 50%;
+	width: 30%;
 	display: inline-block;
+}
+
+.half-input {
+	width: 60%;
+	display: block;
 }
 
 /* .fa-github {
