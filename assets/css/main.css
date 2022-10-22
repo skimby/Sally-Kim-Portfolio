@@ -23,12 +23,11 @@
 	font-size: 1em;
 }
 
-.bnt-text {
-	display: inline-block;
-}
+
 
 .fa-github {
-	font-size: 14px;
+	font-size: 17px;
+	padding-left: 3px;
 }
 
 html,
