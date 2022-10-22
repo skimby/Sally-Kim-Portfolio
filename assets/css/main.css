@@ -58,6 +58,11 @@ textarea {
 	border-bottom: none;
 }
 
+.full-btn {
+	display: block;
+	color: white;
+	background-color: #5f4d93;
+}
 
 html,
 body,
