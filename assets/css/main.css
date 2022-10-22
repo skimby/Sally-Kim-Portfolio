@@ -29,6 +29,9 @@
 	height: 13.9em;
 }
 
+.half-input {
+	width: 50%;
+}
 
 /* .fa-github {
 	font-size: 17px;
