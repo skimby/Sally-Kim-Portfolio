@@ -39,6 +39,10 @@
 	display: block;
 }
 
+.center-form {
+	margin: 0 auto;
+}
+
 /* .fa-github {
 	font-size: 17px;
 	padding-left: 7px;
