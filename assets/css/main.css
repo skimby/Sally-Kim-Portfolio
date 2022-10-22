@@ -23,7 +23,9 @@
 	font-size: 1em;
 }
 
-.button {}
+.bnt-text {
+	display: inline-block;
+}
 
 html,
 body,
