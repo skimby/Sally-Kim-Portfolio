@@ -35,6 +35,10 @@
 	padding-left: 7px;
 } */
 
+.all-icons a {
+	border-bottom: none;
+}
+
 html,
 body,
 div,
