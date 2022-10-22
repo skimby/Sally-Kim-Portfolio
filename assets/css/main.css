@@ -23,6 +23,11 @@
 	font-size: .8em;
 }
 
+.project-img {
+	border-radius: 100%;
+	width: 2.25em;
+	height: 2.25em;
+}
 
 
 .fa-github {
