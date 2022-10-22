@@ -3636,6 +3636,7 @@ body.is-preload #header.alt .logo {
 #main input[type="text"],
 #main input[type="password"],
 #main input[type="email"],
+#main input[type="textarea"],
 #main select,
 #main textarea {
 	background-color: rgba(222, 222, 222, 0.25);
