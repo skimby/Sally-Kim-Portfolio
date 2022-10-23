@@ -53,13 +53,13 @@ textarea {
 	border-bottom: none;
 }
 
-.full-btn {
+#form-submit-btn.full-btn {
 	display: block;
 	border: 1 solid palevioletred;
 	/* background-color: palevioletred; */
 	width: 60%;
 	padding: 15px 0 15px 0;
-	margin: 15px auto 0 auto;
+	margin: 0 auto;
 }
 
 .large {
@@ -2024,7 +2024,7 @@ button,
 	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	border-radius: 8px;
-	/* border: 0; */
+	border: 0;
 	cursor: pointer;
 	display: inline-block;
 	font-weight: 300;
