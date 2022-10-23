@@ -63,6 +63,10 @@ textarea {
 	margin: 0 auto;
 }
 
+.large {
+	font-size: 40px;
+}
+
 html,
 body,
 div,
