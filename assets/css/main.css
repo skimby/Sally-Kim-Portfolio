@@ -3594,9 +3594,9 @@ body.is-preload #header.alt .logo {
 
 #main input[type="submit"]:hover,
 #main input[type="reset"]:hover,
-#main input[type="button"]:hover,
-#main button:hover,
-#main .button:hover {
+input[type="button"]:hover,
+button:hover,
+.button:hover {
 	background-color: rgba(222, 222, 222, 0.25);
 }
 
