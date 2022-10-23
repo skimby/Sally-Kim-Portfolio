@@ -55,7 +55,7 @@ textarea {
 
 .full-btn {
 	display: block;
-	color: white;
+	color: white !important;
 	border: 1 solid palevioletred;
 	/* background-color: palevioletred; */
 	width: 60%;
