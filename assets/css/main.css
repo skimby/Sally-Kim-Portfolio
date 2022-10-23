@@ -3584,9 +3584,9 @@ body.is-preload #header.alt .logo {
 
 #main input[type="submit"],
 #main input[type="reset"],
-#main input[type="button"],
-#main button,
-#main .button {
+input[type="button"],
+button,
+.button {
 	background-color: transparent;
 	box-shadow: inset 0 0 0 1px #dddddd;
 	color: #636363 !important;
@@ -3602,9 +3602,9 @@ button:hover,
 
 #main input[type="submit"]:active,
 #main input[type="reset"]:active,
-#main input[type="button"]:active,
-#main button:active,
-#main .button:active {
+input[type="button"]:active,
+button:active,
+.button:active {
 	background-color: rgba(222, 222, 222, 0.5);
 }
 
