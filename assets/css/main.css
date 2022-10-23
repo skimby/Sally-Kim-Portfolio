@@ -48,11 +48,6 @@ textarea {
 	margin: 0 auto;
 }
 
-/* .fa-github {
-	font-size: 17px;
-	padding-left: 7px;
-} */
-
 .all-icons a,
 .resume a {
 	border-bottom: none;
@@ -62,7 +57,8 @@ textarea {
 	display: block;
 	color: white;
 	background-color: palevioletred;
-	width: 100%;
+	width: 60%;
+	padding: 10px 0;
 }
 
 html,
