@@ -53,7 +53,7 @@ textarea {
 	border-bottom: none;
 }
 
-#form-submit-btn.full-btn {
+#form-submit-btn button {
 	display: block;
 	border: 1 solid palevioletred;
 	/* background-color: palevioletred; */
