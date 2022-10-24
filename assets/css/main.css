@@ -7,11 +7,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 .button1 {
-	background:
-		linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
-		linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0) border-box;
-	border-radius: 50em;
-	border: 4px solid transparent;
+	max-width: 50%;
+	border-width: 3px;
+	border-style: solid;
+	border-image:
+		linear-gradient(to right, #13a338 0%, #1f3876 100%) 0 0 100% 0;
 
 	/* background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 	border-color: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
