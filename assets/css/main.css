@@ -2056,7 +2056,7 @@ button,
 	cursor: pointer;
 	display: inline-block;
 	height: 2.75em;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	line-height: 2.75em;
 	min-width: 9.25em;
 	padding: .5em 1.5em;
