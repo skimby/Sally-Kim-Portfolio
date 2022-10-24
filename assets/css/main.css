@@ -2154,7 +2154,6 @@ input[type="button"],
 button,
 .button {
 	background-color: transparent;
-	border: 2px solid palevioletred;
 	color: #ffffff !important;
 }
 
@@ -3636,7 +3635,6 @@ input[type="button"],
 button,
 .button {
 	background-color: transparent;
-	border: 2px solid palevioletred;
 
 	color: #636363 !important;
 }
