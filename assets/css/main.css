@@ -98,9 +98,6 @@ textarea {
 #form-submit-btn button {
 	display: block;
 	box-shadow: none;
-	border: 1 solid palevioletred;
-
-	/* background-color: palevioletred; */
 	width: 60%;
 	padding: 25px 0 25px 0;
 	margin: 25px auto 0 auto;
