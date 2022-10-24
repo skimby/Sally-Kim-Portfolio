@@ -11,9 +11,10 @@ button {
 	font-weight: 500;
 
 	border: 1 solid pink !important;
-	border-width: 0;
+	/* border-width: 0; */
 	border-style: none;
 	border-color: none;
+
 }
 
 .logo-container-sk {
