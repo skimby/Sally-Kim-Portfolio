@@ -15,6 +15,7 @@ button {
 	border-color: none;
 	position: relative;
 	padding: 20px 0;
+	vertical-align: top;
 }
 
 .button::before {
