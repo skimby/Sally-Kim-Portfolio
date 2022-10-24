@@ -13,9 +13,7 @@
 button {
 	font-size: .8em;
 	font-weight: 500;
-
-	border: 1 solid pink !important;
-	/* border-width: 0; */
+	border: 2px solid palevioletred;
 	border-style: none;
 	border-color: none;
 
@@ -71,9 +69,8 @@ textarea {
 #form-submit-btn button {
 	display: block;
 	box-shadow: none;
-	border: 1 solid palevioletred;
+	border: 2px solid palevioletred;
 
-	/* background-color: palevioletred; */
 	width: 60%;
 	padding: 25px 0 25px 0;
 	margin: 25px auto 0 auto;
@@ -2045,9 +2042,8 @@ button,
 	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	border-radius: 8px;
-	border: 1 solid pink !important;
+	border: 2px solid palevioletred;
 
-	/* border: 0; */
 	cursor: pointer;
 	display: inline-block;
 	height: 2.75em;
@@ -2132,9 +2128,7 @@ input[type="button"],
 button,
 .button {
 	background-color: transparent;
-	border: 1 solid palevioletred;
-
-	/* box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35); */
+	border: 2px solid palevioletred;
 	color: #ffffff !important;
 }
 
@@ -3616,8 +3610,8 @@ input[type="button"],
 button,
 .button {
 	background-color: transparent;
-	border: 1 solid palevioletred;
-	/* box-shadow: inset 0 0 0 1px #dddddd; */
+	border: 2px solid palevioletred;
+
 	color: #636363 !important;
 }
 
