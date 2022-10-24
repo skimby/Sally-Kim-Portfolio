@@ -30,7 +30,7 @@ button {
 .button::before {
 	content: "";
 	vertical-align: top;
-
+	margin-bottom: 5px;
 	position: absolute;
 	inset: 0;
 	border-radius: 50px;
