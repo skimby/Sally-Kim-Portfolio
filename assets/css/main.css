@@ -9,7 +9,7 @@
 .button1 {
 	background:
 		linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
-		linear-gradient(to right, darkblue, darkorchid) border-box;
+		linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0) border-box;
 	border-radius: 50em;
 	border: 4px solid transparent;
 
