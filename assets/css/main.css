@@ -14,6 +14,7 @@ button {
 	border-style: none;
 	border-color: none;
 	position: relative;
+	padding: 20px 0;
 }
 
 .button::before {
