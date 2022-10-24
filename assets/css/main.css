@@ -7,12 +7,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 .button1 {
-	max-width: 50%;
-	border-width: 3px;
-	border-style: solid;
-	border-image:
-		linear-gradient(to right, #13a338 0%, #1f3876 100%) 0 0 100% 0;
-
+	height: 250px;
+	border: 2px solid transparent;
+	background-image: linear-gradient(to right, rgb(187, 210, 224), rgb(203, 231, 190)), linear-gradient(to bottom, rgb(114, 191, 87), rgb(116, 191, 86)), linear-gradient(to left, rgb(204, 233, 187), rgb(187, 210, 224)), linear-gradient(to top, rgb(84, 144, 184), rgb(80, 138, 176));
+	background-origin: border-box;
+	background-size: 100% 2px, 2px 100%, 100% 2px, 2px 100%;
+	background-position: top left, top right, bottom right, bottom left;
+	background-repeat: no-repeat;
+	padding-top: 50px;
 	/* background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 	border-color: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 	border-width: 2px;
