@@ -2069,7 +2069,6 @@ button,
 	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	border-radius: 8px;
-	border: 2px solid palevioletred;
 
 	cursor: pointer;
 	display: inline-block;
@@ -2077,7 +2076,7 @@ button,
 	text-transform: uppercase;
 	line-height: 2.75em;
 	min-width: 9.25em;
-	padding: 0 1.5em;
+	padding: .5em 1.5em;
 	text-align: center;
 	text-decoration: none;
 	white-space: nowrap;
