@@ -13,7 +13,7 @@ h6 {
 	font: inherit;
 	/* vertical-align: top; */
 	height: 10px;
-
+	margin-block-end: 10px;
 
 }
 
@@ -26,7 +26,7 @@ button {
 	padding: 20px 0;
 	vertical-align: top;
 	/* margin-block-start: 10px; */
-	margin-block-end: 10px;
+
 }
 
 .button::before {
