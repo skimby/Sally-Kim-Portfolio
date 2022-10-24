@@ -10,7 +10,7 @@ h6 {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 1em;
+	font-size: 1.85em;
 	font: inherit;
 	vertical-align: top;
 
@@ -92,8 +92,7 @@ textarea {
 	display: block;
 	box-shadow: none;
 	width: 60%;
-	padding: 25px 0 25px 0;
-	margin: 25px auto 0 auto;
+
 }
 
 
