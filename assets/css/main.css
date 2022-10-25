@@ -2068,7 +2068,8 @@ button,
 	display: inline-block;
 	height: 2.75em;
 	/* text-transform: uppercase; */
-	line-height: 2.75em;
+	/* line-height: 2.75em; */
+	vertical-align: top;
 	min-width: 9.25em;
 	padding: .5em 1.5em;
 	text-align: center;
