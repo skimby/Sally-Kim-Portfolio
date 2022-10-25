@@ -11,11 +11,6 @@ h6 {
 	border: 0;
 	font-size: 1.85em;
 	font: inherit;
-	/* vertical-align: top; */
-	height: 20px;
-	margin-block-end: 10px;
-	margin-block-start: 10px;
-
 }
 
 button {
@@ -24,8 +19,8 @@ button {
 	border-style: none;
 	border-color: none;
 	position: relative;
-	padding: 20px 0;
-	vertical-align: top;
+	/* padding: 20px 0; */
+	/* vertical-align: top; */
 	margin: 0;
 	/* margin-block-start: 10px; */
 
